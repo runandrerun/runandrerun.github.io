@@ -816,3 +816,8 @@ properly.
   height: 150px;
   width: 150px;
 }
+
+.skill-resize {
+  height: 105px;
+  width: 105px;
+}
