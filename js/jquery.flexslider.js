@@ -4,12 +4,7 @@
  * Contributing Author: Tyler Smith
  */
 
-//  ys = (n) => {
-//    return 1 if n <= 0
-//    return ys(n - 1)
-//  }
-//
-// x = ys(100)
+
 
 ;
 (function ($) {
